@@ -1,4 +1,8 @@
 google.com, pub-6694930945695643, DIRECT, f08c47fec0942fa0
+
+pangleglobal.com, 5035328, DIRECT
+pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
+
 adagio.io, 1522, RESELLER
 adagio.io, 1575, RESELLER
 admanmedia.com, 2242, RESELLER
